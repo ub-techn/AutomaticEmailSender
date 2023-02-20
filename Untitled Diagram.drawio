@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T20:58:18.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="3b1fCGLBEW5dpTnVt08_" version="20.8.21" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-20T21:01:08.249Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="iudoRR_JCuGnBXGadr-k" version="20.8.21" type="github">
   <diagram name="Page-1" id="HhY7eh6iS74X1fsNOlDr">
     <mxGraphModel dx="1434" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,6 +76,9 @@
         </mxCell>
         <mxCell id="Gu4WRyABpQjgVBlWQwCZ-2" value="REST API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="268.21" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gu4WRyABpQjgVBlWQwCZ-7" value="KeyCloak" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
